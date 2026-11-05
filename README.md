@@ -23,7 +23,7 @@
 
 **Grupo de Laboratorio:** 03
 **Semestre:** 2027-1
-
+---
 ## Título del Proyecto
 
 **Proyecto Final – Laboratorio de Computación Gráfica e Interacción Humano-Computadora**  
