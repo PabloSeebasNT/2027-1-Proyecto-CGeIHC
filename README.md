@@ -9,4 +9,3 @@
 
 **EQUIPO:**   
 **NOMBRES COMPLETOS:**
-Hernández Fierros Sonia
