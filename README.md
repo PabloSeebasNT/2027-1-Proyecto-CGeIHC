@@ -9,3 +9,5 @@
 
 **EQUIPO:**   
 **NOMBRES COMPLETOS:**
+
+• Pablo Sebastian Noyola Torres
