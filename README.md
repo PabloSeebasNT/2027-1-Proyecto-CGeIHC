@@ -10,7 +10,7 @@
 **EQUIPO:**   
 **NOMBRES COMPLETOS:**
 
-• Yadira
-• Ricardo Emmanuel Galicia Tequianes 
-• 
-• Pablo Sebastian Noyola Torres
+* Yadira Colima Esquivel
+* Ricardo Emmanuel Galicia Tequianes
+* Pablo Sebastian Noyola Torres
+* 
