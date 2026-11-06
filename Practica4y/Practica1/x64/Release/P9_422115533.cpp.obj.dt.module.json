@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Release\\P9_422115533.obj",
+            "outputs": [
+                "x64\\Release\\P9_422115533.cpp.obj.dt.module.json",
+                "x64\\Release\\P9_422115533.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

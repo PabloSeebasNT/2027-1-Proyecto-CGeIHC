@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Release\\CommonValues.obj",
+            "outputs": [
+                "x64\\Release\\CommonValues.h.obj.dt.module.json",
+                "x64\\Release\\CommonValues.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

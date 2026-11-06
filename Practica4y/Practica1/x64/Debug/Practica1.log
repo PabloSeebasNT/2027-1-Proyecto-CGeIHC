@@ -1,0 +1,15 @@
+﻿  P9_422115533.cpp
+C:\Users\Dell\Documents\Universidad\2027-1\Compu Grafica\Laboratorio\Practica9\Practica4y\Practica1\Window.h(13,39): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "P9_422115533.cpp")
+  
+C:\Users\Dell\Documents\Universidad\2027-1\Compu Grafica\Laboratorio\Practica9\Practica4y\Practica1\Window.h(14,40): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "P9_422115533.cpp")
+  
+C:\Users\Dell\Documents\Universidad\2027-1\Compu Grafica\Laboratorio\Practica9\Practica4y\Practica1\P9_422115533.cpp(145,24): warning C4267: 'inicializando': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\Dell\Documents\Universidad\2027-1\Compu Grafica\Laboratorio\Practica9\Practica4y\Practica1\P9_422115533.cpp(469,18): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Dell\Documents\Universidad\2027-1\Compu Grafica\Laboratorio\Practica9\Practica4y\Practica1\P9_422115533.cpp(550,15): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Dell\Documents\Universidad\2027-1\Compu Grafica\Laboratorio\Practica9\Practica4y\Practica1\P9_422115533.cpp(552,33): warning C4244: '+=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Dell\Documents\Universidad\2027-1\Compu Grafica\Laboratorio\Practica9\Practica4y\Practica1\P9_422115533.cpp(692,21): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\Dell\Documents\Universidad\2027-1\Compu Grafica\Laboratorio\Practica9\Practica4y\Practica1\P9_422115533.cpp(770,21): warning C4305: '=': truncamiento de 'double' a 'float'
+LINK : warning LNK4098: la biblioteca predeterminada'MSVCRT' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
+  Practica1.vcxproj -> C:\Users\Dell\Documents\Universidad\2027-1\Compu Grafica\Laboratorio\Practica9\Practica4y\x64\Debug\Practica1.exe
