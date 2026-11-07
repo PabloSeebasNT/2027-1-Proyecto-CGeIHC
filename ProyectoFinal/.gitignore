@@ -1,0 +1,8 @@
+# Carpeta de compilación (CMake)
+build/
+
+# Archivos del sistema
+.DS_Store
+
+# Capturas sin convertir
+*.ppm
