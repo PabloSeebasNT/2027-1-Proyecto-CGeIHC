@@ -1,0 +1,12 @@
+# Blender 5.2.2 LTS MTL File: 'Jake_original.blend'
+# www.blender.org
+
+newmtl Jake_color
+Ns 39.999996
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Jake_BaseColor.png

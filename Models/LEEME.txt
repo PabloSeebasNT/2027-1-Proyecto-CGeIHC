@@ -1,0 +1,2 @@
+Modelos OBJ / GLB de cada integrante (Model::LoadModel). La parte de Pyros está hecha por código y no usa modelos.
+Sus texturas van en ../Textures con el mismo nombre que indica el .mtl.

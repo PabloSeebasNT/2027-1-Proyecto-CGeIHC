@@ -1,0 +1,22 @@
+# Blender 5.2.2 LTS MTL File: 'None'
+# www.blender.org
+
+newmtl LadyRainicorn_Face_Texture
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd LadyRainicorn_Face_Texture.png
+
+newmtl LadyRainicorn_Texture
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd LadyRainicorn_Texture.png

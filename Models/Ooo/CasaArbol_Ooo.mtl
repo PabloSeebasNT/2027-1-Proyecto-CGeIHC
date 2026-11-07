@@ -1,0 +1,188 @@
+# Imported Sketchfab materials. Textures are in the project Textures folder.
+newmtl CasaOoo_Umbrella
+Kd 1.000 1.000 1.000
+Ka 0.2 0.2 0.2
+Ks 0.03 0.03 0.03
+Ns 8
+d 1.0
+illum 2
+map_Kd ../../Textures/CasaOoo_umbrella.png
+
+newmtl CasaOoo_Boat_White
+Kd 1.000 1.000 1.000
+Ka 0.2 0.2 0.2
+Ks 0.03 0.03 0.03
+Ns 8
+d 1.0
+illum 2
+map_Kd ../../Textures/CasaOoo_Boat1.png
+
+newmtl CasaOoo_Boat_Red
+Kd 1.000 1.000 1.000
+Ka 0.2 0.2 0.2
+Ks 0.03 0.03 0.03
+Ns 8
+d 1.0
+illum 2
+map_Kd ../../Textures/CasaOoo_Boat2.png
+
+newmtl CasaOoo_Pipe
+Kd 1.000 1.000 1.000
+Ka 0.2 0.2 0.2
+Ks 0.03 0.03 0.03
+Ns 8
+d 1.0
+illum 2
+map_Kd ../../Textures/CasaOoo_HousePipe.jpg.png
+
+newmtl CasaOoo_house_richbrown
+Kd 1.000 1.000 1.000
+Ka 0.2 0.2 0.2
+Ks 0.03 0.03 0.03
+Ns 8
+d 1.0
+illum 2
+map_Kd ../../Textures/CasaOoo_HouserichBrown.png
+
+newmtl CasaOoo_Rope1
+Kd 0.362 0.337 0.146
+Ka 0.2 0.2 0.2
+Ks 0.03 0.03 0.03
+Ns 8
+d 1.0
+illum 2
+
+newmtl CasaOoo_wood_purple
+Kd 1.000 1.000 1.000
+Ka 0.2 0.2 0.2
+Ks 0.03 0.03 0.03
+Ns 8
+d 1.0
+illum 2
+map_Kd ../../Textures/CasaOoo_HouseDarkPurple.png
+
+newmtl CasaOoo_wood_brown
+Kd 1.000 1.000 1.000
+Ka 0.2 0.2 0.2
+Ks 0.03 0.03 0.03
+Ns 8
+d 1.0
+illum 2
+map_Kd ../../Textures/CasaOoo_HouseNormalBrown.png
+
+newmtl CasaOoo_roof_blue
+Kd 1.000 1.000 1.000
+Ka 0.2 0.2 0.2
+Ks 0.03 0.03 0.03
+Ns 8
+d 1.0
+illum 2
+map_Kd ../../Textures/CasaOoo_RoofLight.png
+
+newmtl CasaOoo_roof_darkblue
+Kd 1.000 1.000 1.000
+Ka 0.2 0.2 0.2
+Ks 0.03 0.03 0.03
+Ns 8
+d 1.0
+illum 2
+map_Kd ../../Textures/CasaOoo_RoofDark.png
+
+newmtl CasaOoo_Window_house
+Kd 1.000 1.000 1.000
+Ka 0.2 0.2 0.2
+Ks 0.03 0.03 0.03
+Ns 8
+d 1.0
+illum 2
+map_Kd ../../Textures/CasaOoo_glass_light_blue.png
+
+newmtl CasaOoo_planks
+Kd 1.000 1.000 1.000
+Ka 0.2 0.2 0.2
+Ks 0.03 0.03 0.03
+Ns 8
+d 1.0
+illum 2
+map_Kd ../../Textures/CasaOoo_planks.png
+
+newmtl CasaOoo_stone1
+Kd 1.000 1.000 1.000
+Ka 0.2 0.2 0.2
+Ks 0.03 0.03 0.03
+Ns 8
+d 1.0
+illum 2
+map_Kd ../../Textures/CasaOoo_stones.png
+
+newmtl CasaOoo_Tree
+Kd 1.000 1.000 1.000
+Ka 0.2 0.2 0.2
+Ks 0.03 0.03 0.03
+Ns 8
+d 1.0
+illum 2
+map_Kd ../../Textures/CasaOoo_tree.png
+
+newmtl CasaOoo_fabric_red
+Kd 1.000 1.000 1.000
+Ka 0.2 0.2 0.2
+Ks 0.03 0.03 0.03
+Ns 8
+d 1.0
+illum 2
+map_Kd ../../Textures/CasaOoo_redFlag.png
+
+newmtl CasaOoo_tree_leaves
+Kd 1.000 1.000 1.000
+Ka 0.2 0.2 0.2
+Ks 0.03 0.03 0.03
+Ns 8
+d 1.0
+illum 2
+map_Kd ../../Textures/CasaOoo_leaves.png
+
+newmtl CasaOoo_Knob_door
+Kd 0.978 0.978 0.120
+Ka 0.2 0.2 0.2
+Ks 0.03 0.03 0.03
+Ns 8
+d 1.0
+illum 2
+
+newmtl CasaOoo_Bemo_Character
+Kd 1.000 1.000 1.000
+Ka 0.2 0.2 0.2
+Ks 0.03 0.03 0.03
+Ns 8
+d 1.0
+illum 2
+map_Kd ../../Textures/CasaOoo_fd5c5d63dcd13254f1fcdd261dfdfe77.png
+
+newmtl CasaOoo_clay_dark
+Kd 1.000 1.000 1.000
+Ka 0.2 0.2 0.2
+Ks 0.03 0.03 0.03
+Ns 8
+d 1.0
+illum 2
+map_Kd ../../Textures/CasaOoo_clay3.png
+
+newmtl CasaOoo_clay_light
+Kd 1.000 1.000 1.000
+Ka 0.2 0.2 0.2
+Ks 0.03 0.03 0.03
+Ns 8
+d 1.0
+illum 2
+map_Kd ../../Textures/CasaOoo_clay.png
+
+newmtl CasaOoo_clay_medium
+Kd 1.000 1.000 1.000
+Ka 0.2 0.2 0.2
+Ks 0.03 0.03 0.03
+Ns 8
+d 1.0
+illum 2
+map_Kd ../../Textures/CasaOoo_clay2.png
+

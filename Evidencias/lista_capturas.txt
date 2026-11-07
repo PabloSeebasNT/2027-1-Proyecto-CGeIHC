@@ -1,0 +1,24 @@
+# Capturas del reporte. Desde la carpeta build:  ./ProyectoFinal --capturas ../Evidencias/lista_capturas.txt --salir
+# Cada línea: archivo.ppm y opciones (ver AplicarOpciones en ProyectoFinal.cpp)
+01_camara1_avatar_dia.ppm --modo 1 --hora 0.22 --tiempo 10
+02_avatar_caminando.ppm --libre 4006.5 2.0 28.5 -172 -6 --hora 0.22 --tiempo 3 --fase 1.0 1.0
+03_avatar_frente.ppm --libre 4002 2.4 24 110 -12 --hora 0.22 --tiempo 3 --fase 2.5 1.0
+04_pyros_vista_general.ppm --libre 4000 70 150 -90 -22 --hora 0.22 --tiempo 10
+05_museo_evolucion.ppm --libre 4000 4 -8 -90 -12 --hora 0.22 --tiempo 5
+06_evolucion_inicio.ppm --libre 4000 3.5 10 -90 -10 --hora 0.25 --tiempo 20.8 --evolucion 20 0
+07_evolucion_cambio.ppm --libre 4000 3.5 10 -90 -10 --hora 0.25 --tiempo 21.8 --evolucion 20 0
+08_evolucion_coloso.ppm --libre 4000 3.5 10 -90 -10 --hora 0.25 --tiempo 23.0 --evolucion 20 1
+09_erupcion.ppm --libre 4010 25 40 -125 8 --hora 0.6 --tiempo 12.5 --erupcion 10
+10_nave_plataforma.ppm --libre 4030 9 58 -40 -14 --hora 0.22 --tiempo 5
+11_nave_despegue.ppm --libre 4036 6 56 -50 18 --hora 0.25 --tiempo 22.5 --nave 1 20
+12_noche_luminarias_linterna.ppm --libre 4030 14 66 -60 -35 --hora 0.8 --tiempo 20 --linterna 1 --avatar 35 55 160
+13_noche_plaza.ppm --modo 1 --hora 0.75 --tiempo 20
+14_lago_larvas.ppm --libre 4055 6 -22 -90 -25 --hora 0.25 --tiempo 3
+15_escarabajo.ppm --libre 4047 2.5 2 -138 -11 --hora 0.25 --tiempo 0.5
+16_coloso.ppm --libre 3984 5 -8 -135 -10 --hora 0.22 --tiempo 5
+17_camara3_nave_espacio.ppm --modo 3 --tiempo 30 --hora 0.22
+18_camara4_pyros_luna_asteroides.ppm --modo 4 --tiempo 50 --recorrido 22 --hora 0.22
+19_camara4_panoramica.ppm --modo 4 --tiempo 50 --recorrido 33 --hora 0.25
+20_camara4_estacion_temporal.ppm --modo 4 --tiempo 50 --recorrido 13 --hora 0.25
+21_camara2_carrera_temporal.ppm --modo 2 --tiempo 12 --hora 0.25
+22_planeta_peanuts_skybox_espacio.ppm --modo 1 --planeta 2 --hora 0.25 --tiempo 4

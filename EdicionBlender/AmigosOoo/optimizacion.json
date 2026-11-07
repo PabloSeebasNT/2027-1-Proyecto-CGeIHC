@@ -1,0 +1,84 @@
+{
+  "Jake": {
+    "before": 12562,
+    "after": 9286,
+    "parts": [
+      "Jake_cuerpo",
+      "Jake_cara",
+      "Jake_pierna_izq",
+      "Jake_pierna_der"
+    ],
+    "pivots": {
+      "Jake_cuerpo": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "Jake_cara": [
+        0.0,
+        1.92084,
+        0.59074
+      ],
+      "Jake_pierna_izq": [
+        -0.40069,
+        0.90659,
+        0.10958
+      ],
+      "Jake_pierna_der": [
+        0.40069,
+        0.90659,
+        0.10958
+      ]
+    }
+  },
+  "Bmo": {
+    "before": 2581,
+    "after": 2479,
+    "parts": [
+      "Bmo_cuerpo",
+      "Bmo_botones",
+      "Bmo_cara",
+      "Bmo_brazo_izq",
+      "Bmo_brazo_der",
+      "Bmo_pierna_izq",
+      "Bmo_pierna_der"
+    ],
+    "pivots": {
+      "Bmo_cuerpo": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "Bmo_botones": [
+        -0.01845,
+        0.81914,
+        0.29105
+      ],
+      "Bmo_cara": [
+        0.0,
+        1.4074,
+        0.29245
+      ],
+      "Bmo_brazo_izq": [
+        -0.45057,
+        1.31431,
+        -0.0
+      ],
+      "Bmo_brazo_der": [
+        0.45057,
+        1.31431,
+        -0.0
+      ],
+      "Bmo_pierna_izq": [
+        -0.22109,
+        0.5874,
+        -0.0
+      ],
+      "Bmo_pierna_der": [
+        0.22109,
+        0.5874,
+        -0.0
+      ]
+    }
+  }
+}
